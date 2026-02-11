@@ -18,14 +18,14 @@
 
 ---
 
-### 🧠 **About Me**
+###  **About Me**
 
 I am a dedicated and results-driven professional with **advanced expertise** in Data Analysis and Data Science, and growing proficiency in AI Engineering. My passion lies in uncovering hidden patterns within complex datasets and developing intelligent solutions that drive strategic business decisions and innovation.
 
-- 🔭 **Currently:** Architecting and deploying end-to-end machine learning pipelines and exploring the frontiers of Generative AI.
-- 🌱 **Deepening my knowledge in:** MLOps, Cloud-based AI platforms (AWS/GCP), and Large Language Model (LLM) applications.
-- 💬 **Ask me about:** Python, SQL, Power BI, Statistical Modeling, Machine Learning, and Data Visualization.
-- 📫 **Reach out:** `kimothojackson1125@gmail.com`
+-  **Currently:** Architecting and deploying end-to-end machine learning pipelines and exploring the frontiers of Generative AI.
+-  **Deepening my knowledge in:** MLOps, Cloud-based AI platforms (AWS/GCP), and Large Language Model (LLM) applications.
+-  **Ask me about:** Python, SQL, Power BI, Statistical Modeling, Machine Learning, and Data Visualization.
+-  **Reach out:** `kimothojackson1125@gmail.com`
 
 ---
 
@@ -58,7 +58,7 @@ I am a dedicated and results-driven professional with **advanced expertise** in 
 
 ---
 
-### 🤝 **Connect With Me**
+###  **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackson-kimotho1" target="_blank">
