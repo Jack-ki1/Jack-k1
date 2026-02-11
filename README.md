@@ -25,7 +25,7 @@ I am a dedicated and results-driven professional with **advanced expertise** in 
 - 🔭 **Currently:** Architecting and deploying end-to-end machine learning pipelines and exploring the frontiers of Generative AI.
 - 🌱 **Deepening my knowledge in:** MLOps, Cloud-based AI platforms (AWS/GCP), and Large Language Model (LLM) applications.
 - 💬 **Ask me about:** Python, SQL, Power BI, Statistical Modeling, Machine Learning, and Data Visualization.
-- 📫 **Reach out:** `2406455@students.kcau.ac.ke`
+- 📫 **Reach out:** `kimothojackson1125@gmail.com`
 
 ---
 
@@ -58,26 +58,14 @@ I am a dedicated and results-driven professional with **advanced expertise** in 
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jack-k1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-k1&layout=compact&theme=radical&langs_count=8" />
-</p>
-
----
-
 ### 🤝 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/jackson-kimotho1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:2406455@students.kcau.ac.ke">
+  <a href="kimothojackson1125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
